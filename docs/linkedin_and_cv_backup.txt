@@ -1,0 +1,630 @@
+=======================================================
+ORIGINAL CV BACKUP - ARTHUR HENRIQUE LOPES FEITOSA
+=======================================================
+
+Arthur Henrique Lopes Feitosa
+Junior Java Developer | Focus on Back-End with Spring Boot
+São José de Ribamar, MA
+(98) 99161-2062 | arthurhenriquelopesf@gmail.com
+LinkedIn | GitHub | Portfolio
+
+PROFESSIONAL SUMMARY
+Information Systems student with experience in software development, specializing in back-end development with Spring Boot, RESTful APIs, PostgreSQL, and Docker. Experienced in a real-world production environment, contributing to improved code quality and operational efficiency in multidisciplinary agile teams. Committed to good development practices, automated testing, and continuous delivery.
+
+PROFESSIONAL EXPERIENCE
+Midas Systems Development (June 2025 — June 2026)
+Software Development Intern
+• Developed an intelligent chatbot using Spring Boot and Flutter/Dart, improving user interaction by 20%.
+• Created mobile screens and integrated LLM for document processing via OCR, increasing accuracy by 15%.
+• Collaborated in agile teams, improving code quality and operational efficiency.
+• Implemented automated testing, reducing bugs by 30% and accelerating the development cycle.
+
+FIRA RoboWorld Cup 2024 (January 2024 — December 2024)
+English Interpreter
+• Worked as an interpreter in an international robotics competition, facilitating technical communication in high-pressure situations.
+• Provided simultaneous translation at events, contributing to the team's success in a multicultural environment.
+
+ACADEMIC BACKGROUND
+Federal Institute of Maranhão (IFMA) (March 2024 — March 2028)
+Bachelor's degree in Information Systems
+
+SKILLS
+Back-End: Java, Spring Boot, REST APIs, Microservices, Spring Security, JWT, Redis, PostgreSQL, Docker.
+Tools and Methodologies: JUnit, Mockito, CI/CD, Gradle, SOLID, Clean Code, Design Patterns, Git, GitHub, Linux, Bash Scripting.
+Front-End: React, Angular, TypeScript, Flutter, Dart.
+Other Languages and Technologies: Python, SQL, Prompt Engineering, AI applied to development, Swagger, Unit and Integration Testing.
+
+LANGUAGES
+Portuguese — Native
+English — C1 Advanced
+
+PROJECTS
+DistroWiki — Developer
+An open-source web platform to aid in choosing Linux distributions, allowing for side-by-side comparisons with standardized performance metrics. Built with React, TypeScript, Tailwind CSS, and Vite, with dynamic daily scraping and continuous deployment via Vercel.
+
+SIGAMA Vision — Developer
+Prototype of an AI-powered web platform for agricultural management developed for the AGED/FAPEMA 2025 grant, featuring a document analysis workflow (GTAs), compliance score generation, and fraud detection. Built using React 18, TypeScript, and Tailwind CSS.
+
+LLMX — Developer
+AI personal assistant for Linux environments via terminal, allowing you to execute commands, search for files, and generate scripts using natural language with support for multiple LLM providers. Built with TypeScript, Node.js, and React Ink.
+
+CERTIFICATIONS (DIO)
+• Introduction to AWS and the World of Cloud Computing (DIO)
+• Java Application Development Best Practices (DIO)
+• Best Practices for RESTful APIs (DIO)
+• Connecting your API to a Database using Spring Data (DIO)
+• Creating your First REST API with Spring Boot (DIO)
+• Creating a Documented REST API with Spring Web and Swagger (DIO)
+• Spring Ecosystem for API Development (DIO)
+• Understanding EC2 Instances and Resource Optimization on AWS (DIO)
+• Fundamentals of Java Language Syntax (DIO)
+• Java Development Fundamentals (DIO)
+• Introduction to Spring Framework with Spring Boot (DIO)
+• Object-Oriented Programming with Java (DIO)
+• SOLID and Clean Code in Java: Writing High-Quality Code (DIO)
+• Working with Design Patterns in Java Applications (DIO)
+
+
+==================== LIVE LINKEDIN PROFILE BACKUP (https://www.linkedin.com/authwall?trk=bf&trkInfo=AQE5lkzU4SE2PQAAAaBZ2bjghi2Z4NnFYgcy-0WbYWdLG-4KUnwYMeuAfqjvBjmiSpD2E6n1A8BbsxsF__eNk-OGw5w6nehLhO2XYewiDln6RSK_NxWf2lyP4lQJ8iuBohSRXD4=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fme%2F) ====================
+
+Cadastre-se no LinkedIn
+E-mail
+Senha (+ de 6 caracteres)
+
+Ao clicar em Aceite e cadastre-se, você aceita o Contrato do Usuário, a Política de Privacidade e a Política de Cookies do LinkedIn.
+
+Aceite e cadastre-se
+ou
+
+Já faz parte do LinkedIn? Entre
+
+==================== LIVE LINKEDIN PROFILE ====================
+
+0 notificação
+Pular para pesquisa
+Pular para conteúdo principal
+Pular para conteúdo principal
+Pular para à parte
+Pular para rodapé
+
+Pesquisar
+
+4 sugestões disponíveis. Use as setas para navegar para cima e para baixo
+Histórico recente da entidade
+Recentes
+Limpar tudo
+
+SolutionMall
+
+Theoplan
+
+Acadium
+
+Início
+Minha rede
+Vagas
+Mensagens
+2
+Notificações
+Eu
+Para negócios
+
+Reative Premium: 50% de desconto
+
+Arthur Feitosa
+
+Analista Jr | Relações internacionais | Comex | Supply Chain 
+
+Mais
+Enviar mensagem
+Seguir
+Arthur Feitosa
+
+· 3º
+
+Analista Jr | Relações internacionais | Comex | Supply Chain 
+
+Guarulhos, São Paulo, Brasil
+
+·
+
+Dados de contato
+
+Danone
+
+1.278 seguidores
+
+·
+
+mais de 500
+
+conexões
+
+Seguir
+Enviar mensagem
+Mais
+Sobre
+
+Com mais de três anos de experiência no setor de logística e monitoramento, minha jornada na Danone tem sido marcada pela eficiência na gestão de tempo e pela habilidade em resolver incidentes com agilidade. A utilização avançada da ferramenta SAP para controle de pedidos e ordens de devolução destaca-se como um dos meus principais competências técnicas.
+
+Nossa equipe prioriza a integridade e a excelência no atendimento ao cliente, assegurando que as entregas sejam realizadas com sucesso e qualquer desafio seja superado com confiança. Meu comprometimento é com a inovação e a melhoria contínua dos processos, sempre em busca de resultados que contribuam para o crescimento da organização e satisfação dos nossos clientes.
+… mais
+
+Em destaque
+
+Conteúdo de mídia
+
+CERTIFICADO REVIT AUTODESK
+
+Atividades
+
+1.278 seguidores
+
+Seguir
+Publicações
+Comentários
+
+Arthur Feitosa
+
+ 
+ • 3º e +
+
+Analista Jr | Relações internacionais | Comex | Supply Chain 
+
+1 m • 
+
+Boas vindas ao Bootcamp Bradesco - GenAI, Dados & Cyber
+Boas vindas ao Bootcamp Bradesco - GenAI, Dados & Cyber
+
+dio.me
+
+1 reação
+1
+
+Gostar
+Comentar
+Compartilhar
+Enviar
+
+Arthur Feitosa
+
+ 
+ • 3º e +
+
+Analista Jr | Relações internacionais | Comex | Supply Chain 
+
+1 a • 
+
+E já se passaram 3 anos de muito aprendizado, desafios e realizações que venham mais!!! Obrigado a todos meu amigos e colegas que colaboraram e me deram suporte ao longo desses anos.
+
+#danoner #danone Danone
+… mais
+
+10 reações
+10
+
+1 comentário
+1 comentário
+
+Gostar
+Comentar
+Compartilhar
+Enviar
+
+Arthur Feitosa
+
+ 
+ • 3º e +
+
+Analista Jr | Relações internacionais | Comex | Supply Chain 
+
+2 a • Editado • 
+
+Já iniciando o dia com uma mensagem dessas, o tempo passa rápido demais!! Muito obrigado a todos que compartilham diariamente essa jornada de experiências e aprendizados juntos.
+#onedanone #danone
+… mais
+
+13 reações
+13
+
+1 comentário
+1 comentário
+
+Gostar
+Comentar
+Compartilhar
+Enviar
+
+Arthur Feitosa
+
+ 
+ • 3º e +
+
+Analista Jr | Relações internacionais | Comex | Supply Chain 
+
+3 a • 
+
+Maio de 2023 
+
+Eu e a Geise Keller dando treinamento e suporte ao monitoramento (last mile) para a torre primária da Danone em Poços de Caldas.
+
+#danone #onedanone #treinamento
+… mais
+
+1/2
+
+17 reações
+17
+
+2 comentários
+2 comentários
+
+Gostar
+Comentar
+Compartilhar
+Enviar
+
+Arthur Feitosa
+
+ 
+ • 3º e +
+
+Analista Jr | Relações internacionais | Comex | Supply Chain 
+
+3 a • 
+
+Thaís Bringel
+
+ 
+ • 3º e +
+
+Customer Experience & Supply Chain | Sênior | O2C | Gestão de Operações e Experiência do Cliente | Eficiência e Melhoria de Processos | MBA em Marketing
+
+3 a • Editado • 
+
+Visita Danone- CD Poços de Caldas, para conhecer a unidade Control Tower T1, onde é integrado todas as informações de expedição de mercadorias aos CDs nível Brasil e distribuidores. Em seguida, reunião de integração entre equipe Poços e Guarulhos. #OneDanone #mundodanone #orgulhodepertencer
+… mais
+
+1/3
+
+Gostar
+Comentar
+Compartilhar
+Enviar
+
+Arthur Feitosa
+
+ 
+ • 3º e +
+
+Analista Jr | Relações internacionais | Comex | Supply Chain 
+
+3 a • 
+
+Bom dia, é com muita alegria e satisfação que compartilho minhas #BODASDEAPTAMIL um ano de #DANONER, agradeço a todos da companhia pelo acolhimento e ensinamentos passados. Bora pra mais um!
+Danone #danone 
+… mais
+
+4 reações
+4
+
+Gostar
+Comentar
+Compartilhar
+Enviar
+
+Arthur Feitosa
+
+ 
+ • 3º e +
+
+Analista Jr | Relações internacionais | Comex | Supply Chain 
+
+5 a • 
+
+Marília Gabriela Militão Mekhain
+
+ 
+ • 3º e +
+
+Especialista em Cultura, Treinamento & Desenvolvimento | Employer Branding | Comunicação Interna | Engajamento | Gestão da Experiência do Colaborador | DHO
+
+5 a • 
+
+É sobre isso!
+
+2 reações
+2
+
+Gostar
+Comentar
+Compartilhar
+Enviar
+
+Arthur Feitosa
+
+ 
+ • 3º e +
+
+Analista Jr | Relações internacionais | Comex | Supply Chain 
+
+5 a • 
+
+Denis França 🚀
+
+ 
+ • 3º e +
+
+Gerente de Atração de Talentos | Talent Acquisition | Gestão de Pessoas e DHO | Palestrante | Top 150 Influenciadores de RH 2025
+
+5 a • 
+
+😃
+
+1 reação
+1
+
+Gostar
+Comentar
+Compartilhar
+Enviar
+
+Arthur Feitosa
+
+ 
+ • 3º e +
+
+Analista Jr | Relações internacionais | Comex | Supply Chain 
+
+5 a • 
+
+Isabela B.
+
+• 3º e +
+
+Arquiteta | Analista de Projetos | Analista de Desenvolvimento de Produto | Analista de Produto | Analista de Incorporação | 
+
+5 a • Editado • 
+
+• MOODBOARD • 
+
+O que acharam? 
+
+Juntei vários elementos em uma única prancha. 
+
+Textura de linho bege, cimento queimado, granilite, pastilha resinada, madeira carvalho, folhagens e cores pantone!
+
+Imagens: Pinterest
+Diagramação: Isabela Biscuola
+… mais
+
+1 reação
+1
+
+Gostar
+Comentar
+Compartilhar
+Enviar
+Exibir tudo
+Mais perfis para você
+
+Giovanna Yris 
+
+· 3º
+
+Comex Analyst
+
+Enviar mensagem
+
+Sabrina Neri 
+
+· 3º
+
+Importação e Exportação | Comércio Exterior l Logística Internacional l Supply Chan
+
+Enviar mensagem
+
+Livia Silva 
+
+· 3º
+
+Enfermagem | TI | Monitoramento | Danone
+
+Enviar mensagem
+
+Caroline Bittencourt 
+
+· 3º
+
+Supervisora de Comércio Exterior | Logística Internacional | Supply Chain
+
+Enviar mensagem
+
+Viviani Correa
+
+· 3º
+
+Assistente administrativo na Danone
+
+Conectar
+Exibir tudo
+Conheça perfis Premium
+
+Gustavo Teixeira 
+
+• 2º
+
+AI Engineer | Software Engineer | LLMs & AI Agents | Python | LangGraph | LangChain
+
+Conectar
+
+Kleyon Almeida 
+
+• 2º
+
+Software Developer (.NET / C#) | Clean Architecture & APIs REST | Web Application Security | Offensive Sec
+
+Conectar
+
+Alinne Araujo Becker 
+
+· 3º
+
+Física (lic. IFMA) e Mestranda em Física Nuclear (ITA)   |Modelagem Quantitativa e Sistemas Complexos | Python, C++, SQL | Simulações Numéricas | Interesse em Mercado Financeiro
+
+Enviar mensagem
+
+Marco Aurélio Santos de Meneses 
+
+• 2º
+
+Software Engineering | AI Engineering
+
+Seguir
+Pessoas que talvez você conheça
+
+Da instituição de ensino de Arthur 
+
+Ezequiel de Queiroz Matos
+
+• 2º
+
+Analista de Dados | SQL • Power BI • Excel | Dados Financeiros & Operacionais
+
+Conectar
+
+Edivaldo Silva Santos 
+
+• 2º
+
+IT Infrastructure Analyst | SysAdmin | Cloud & DevOps | Microsoft 365 | Google Workspace | Windows & Linux | Active Directory | Zabbix & Grafana | ITIL®️ 4 | AB-900 | NSE 1 & 2
+
+Conectar
+
+Pedro Henrique Soares 
+
+• 2º
+
+Analista de Segurança da Informação| Analista de ERP
+
+Conectar
+
+Thales Roniery 
+
+• 2º
+
+Analista de planejamento e gestão sênior da empresa Grupo Mateus
+
+Conectar
+
+Felipe Komninakis 
+
+• 2º
+
+Desenvolvedor Fullstack | Node.js | TypeScript | Python | Java| Integrações com Inteligência Artificial (AI)| APIs REST | Estatística (Evals) | IA Aplicada
+
+Conectar
+Exibir tudo
+Você talvez goste
+
+Newsletters para você
+
+Fast Facts from the UN
+
+Latest updates from the world of global diplomacy. 
+
+Publicada mensalmente
+
+United Nations
+
+Assinar
+
+Technology & Innovation News
+
+Stay ahead of the curve with curated insights on breakthrough technologies and industry trends.
+
+Publicada quinzenalmente
+
+Siemens
+
+Assinar
+Exibir tudo
+
+Sobre
+
+Acessibilidade
+
+Soluções de Talentos
+
+Diretrizes da Comunidade
+
+Carreiras
+
+Soluções de Marketing 
+
+Termos e Privacidade
+
+Preferências de anúncios
+
+Publicidade
+
+Soluções de Vendas
+
+Dispositivo móvel
+
+Pequenas empresas
+
+Central de Segurança
+
+LinkedIn Corporation © 2026
+
+Dúvidas?
+
+Acesse a nossa Central de Ajuda.
+
+Gerencie sua conta e privacidade
+
+Acesse suas Configurações.
+
+Visibilidade da recomendação
+
+Saiba mais sobre os conteúdos recomendados.
+
+Selecionar idioma
+
+العربية (Árabe)
+বাংলা (Bengali)
+Čeština (Tcheco)
+Dansk (Dinamarquês)
+Deutsch (Alemão)
+Ελληνικά (Grego)
+English (Inglês)
+Español (Espanhol)
+فارسی (Persa)
+Suomi (Finlandês)
+Français (Francês)
+हिंदी (Hindi)
+Magyar (Húngaro)
+Bahasa Indonésia (Indonésio)
+Italiano (Italiano)
+עברית (Hebraico)
+日本語 (Japonês)
+한국어 (Coreano)
+मराठी (Marati)
+Bahasa Malaysia (Malaio)
+Nederlands (Holandês)
+Norsk (Norueguês)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polonês)
+Português (Português)
+Română (Romeno)
+Русский (Russo)
+Svenska (Sueco)
+తెలుగు (Telugu)
+ภาษาไทย (Tailandês)
+Tagalog (Tagalog)
+Türkçe (Turco)
+Українська (Ucraniano)
+Tiếng Việt (Vietnamita)
+简体中文 (Chinês (Simplificado))
+正體中文 (Chinês (Tradicional))
